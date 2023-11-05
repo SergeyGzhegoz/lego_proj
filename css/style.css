@@ -44,3 +44,18 @@ body {
     text-decoration: none;
     color: #000;
 }
+
+/* article */
+article {
+    border: 1px solid #ACAAAA;
+    padding: 10px;
+}
+
+.wrapper {
+    width: 1191px;
+    margin: 0 auto;
+}
+
+article {
+    margin: 20px 0;
+}
