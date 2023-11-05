@@ -60,6 +60,41 @@ article {
     margin: 20px 0;
 }
 
+/* constructor */
+.constructors__items {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 20px 0;
+}
+
+.constructors__item {
+    width: 265px;
+    padding: 10px 15px;
+    background-color: #F1F1F1;
+    border-radius: 5px;
+}
+
+.constructors__item img{
+    width: 237px;
+}
+
+.constructors__item p:nth-child(3){
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.constructors__item button{
+    background-color: #FFCA10;
+    width: 237px;
+    text-align: center;
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
 /* footer */
 footer {
     background-color: #FFCA10;
