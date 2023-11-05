@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+}
+
+.banner {
+    background-color: #FEE667;
+    height: 346px;
+}
+
+.banner__wrapper {
+    width: 1191px;
+    margin: 0 auto;
+    position: relative;
+    height: 346px;
+}
+
+.banner__wrapper img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
